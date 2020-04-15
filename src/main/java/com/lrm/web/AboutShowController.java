@@ -14,9 +14,3 @@ public class AboutShowController {
         return "about";
     }
 }
-//fsfsfrsfferfeferf
-//        fsfsfrsfferfeferf
-//        fsfsfrsfferfeferf
-//                fsfsfrsfferfeferf
-//                fsfsfrsfferfeferf
-//                    git    fsfsfrsfferfeferf
